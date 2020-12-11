@@ -1,0 +1,15 @@
+1:Palma Kentia:Tropical y purificadora:45€:../public/images/plants/palma-kentia.jpg
+2:Ave del Paraíso:Decorativa y resistente:45€:../public/images/plants/ave-paraiso.jpg
+3:Palmera de Salón:Resistente y de interior:39€:../public/images/plants/palmera-salon.jpg
+4:Pachira:Purificadora y resistente:20€:../public/images/plants/pachira.jpg
+5:Higuera de Hoja de Violín:Purificadora con estilo:34€:../public/images/plants/higuera-violin.jpg
+6:Orquidea Rosa:Delicada y purificadora:29€:../public/images/plants/orquidea-rosa.jpg
+7:Planta Serpiente:Una bomba de oxígeno:24€:../public/images/plants/planta-serpiente.jpg
+8:Trío de Plantas Las Purificadoras Altas:Tres plantas altas y purificadoras:64€:../public/images/plants/purificadoras-altas.jpg
+9:Lirio de la Paz:Te avisa cuando quiere agua:24€:../public/images/plants/lirio-paz.jpg
+10:Trio de Plantas Purificadoras Elegantes:Tres plantas purificadoras:49€:../public/images/plants/purificadoras-elegantes.jpg
+11:Monstera Adansonii:Un exótico toque en tu hogar:39€:../public/images/plants/monstera.jpg
+12:Potos:Resistente y para principiantes:24€:../public/images/plants/potos.jpg
+13:Set de Plantas Colgantes:Tres plantas colgantes con macetero:44€:../public/images/plants/set-plantas-colgantes.jpg
+14:Árbol de Olivo:Resistente y hermoso:29€:../public/images/plants/arbol-olivo.jpg
+15:Duo Monstera:Dos monteras en un set:64€:../public/images/plants/duo-monstera.jpg
