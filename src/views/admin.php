@@ -60,6 +60,22 @@
 
             </form>   
 
+            <div class="header-section" style="padding-top: 50px">
+                <h5 class="title">Lista de usuarios</h5>
+            </div>
+
+            <div class="table-container" style="padding-top: 50px">
+        
+                <table class="table">
+
+                    <?php
+                        $admin->listAllUsers();
+                    ?>
+
+                </table>
+
+            </div>
+
             <form class="form-container" style="height: auto;" method="POST" action="../php/admin/deleteProduct.php">
 
                 <div class="header-section" style="padding-top: 50px">

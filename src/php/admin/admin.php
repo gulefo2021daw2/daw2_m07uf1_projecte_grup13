@@ -27,6 +27,23 @@
 
         }
 
+        public function listAllUsers() {
+
+            $fileToRead = '../data/users-list.txt';
+            $lines = file($fileToRead);
+            echo "<tr><td style='padding: 0 30px 0 30px;'><h3>Nombre</h3></td><td style='padding: 0 30px 0 30px;'><h3>Apellidos</h3></td><td style='padding: 0 30px 0 30px;'><h3>Direccion</h3></td><td style='padding: 0 30px 0 30px;'><h3>Email</h3></td></tr>";
+            foreach($lines as $line) {
+                $cols = preg_split('/:/', trim($line));
+                echo "<tr>";
+                    echo "<td style='padding: 0 30px 0 30px;'>".$cols[0]."</td>";
+                    echo "<td style='padding: 0 30px 0 30px;'>".$cols[1]."</td>";
+                    echo "<td style='padding: 0 30px 0 30px;'>".$cols[2]."</td>";
+                    echo "<td style='padding: 0 30px 0 30px;'>".$cols[3]."</td>" ;
+                echo "</tr>";
+            }
+
+        }
+
     } 
 
 ?>
